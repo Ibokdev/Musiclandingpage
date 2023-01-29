@@ -1,0 +1,16 @@
+#hero_section{
+    background-image: url(./assets/background/youngmusicGuy.jpg);
+    /* background-position: ; */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.blury{
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 100%;
+    width: 100%;
+}
+#sectionTwo{
+    background-image: url(./assets/background/bg2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
